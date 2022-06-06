@@ -1,0 +1,18 @@
+  Заявки /requests/
+   Заявки на обход requests/round/
+   Заявки на поключение requests/connecting/
+   Заявки на ремонт requests/repairs/
+  Отчёты /reports/
+   Отдел маркетинга reports/marketing/
+    Годовой отчёт reports/marketing/year/
+    Отчёт по расходам reports/marketing/costs/
+    Отчёт по списаниям reports/marketing/write-offs/
+   Управление reports/control/
+    Отчёт по подключениям reports/control/connecting/
+    Отчёт по эффективности работы reports/control/efficiency/
+  Пользователи /users/
+   Поиск users/search/
+   Создание users/create/
+   Список users/list/
+    Активные users/list/active/
+    Удаленные users/list/deleted/
