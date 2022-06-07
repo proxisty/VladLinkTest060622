@@ -8,9 +8,10 @@ VladLink
 При открытии пути http://127.0.0.1:8000/menu/ :
 1) Загрузится в БД PostgreSQL json, расположенный по пути BASE_DIR/categories_old.json.
 ![image](https://user-images.githubusercontent.com/42601425/172199309-0757a5c5-e99d-4da4-916d-98d837aa2595.png)
-2) Также отобразится на вкладке http://127.0.0.1:8000/menu/ . Для построения меню используется алгоритм Nested Set: ![image](https://user-images.githubusercontent.com/42601425/172196242-f21feb38-b5ca-4f65-b3ef-726ef7dfd5fd.png)
-3) CRUD меню возможен через админ-панель: http://127.0.0.1:8000/admin/menu/categories/
-4) Также автоматически выполнится экспорт в type_a.txt и type_b.txt соответственно заданию.
+2) Также отобразится на вкладке http://127.0.0.1:8000/menu/ . Для построения меню используется алгоритм Nested Set: 
+![image](https://user-images.githubusercontent.com/42601425/172196242-f21feb38-b5ca-4f65-b3ef-726ef7dfd5fd.png)
+4) CRUD меню возможен через админ-панель: http://127.0.0.1:8000/admin/menu/categories/
+5) Также автоматически выполнится экспорт в type_a.txt и type_b.txt соответственно заданию.
 
 # Установка
 В виртуальном окружении (virtualenv) выполнить данную команду:
