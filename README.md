@@ -1,8 +1,5 @@
 VladLink
 
-# Задание
-[Тестовое задание.docx](https://github.com/proxisty/VladLinkTest060622/files/8845633/default.docx)
-
 Меню выполненно на django версии 4.0.5, python 3.9. 
 
 При открытии пути http://127.0.0.1:8000/menu/ :
